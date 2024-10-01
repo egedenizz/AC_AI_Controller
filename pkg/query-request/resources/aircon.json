@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "air-con-man",
+  "private_key_id": "132d801ebda289e76086306fd445cee29e558ebd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtszFsm8kcwJSw\nfFm/MbbmQguURpNamdgy61Eje8KH/gDlKYYsEET24QZgMz0/06F38f0tI8oS6K0H\nELHPhAFY+iEl7hG729i3bES2OYLXZB2P1Oeh7cBhpYa0MdyCVqBtM64VRxvLDC+J\nWVRqRZu/Bzx35d66KF2mYGHIHYa4AfQbWVnCEk4TfVCLbfjB2h1JJgzMFLaJynu5\n8bSeDPp7BrrgIiMOkZazV8NkfzZz5IinQzdZFDfChww+qe4l6oURwMfHABR7pLWH\nJSnlk+BqLkC4BIwVKrAJ5DGpbCl2lwOE311Zm4q9NEbotY+zV+pO/UPtAb2XnMdv\ncgDDcPqfAgMBAAECggEACFMvSjpJMESWm8LJ9lzmnDCMJ4YeZ9g5wW7/y4iR8Tye\nRF1yHciF1aNBT/kEtXtqILqLXM97Tt6x9EW7j+uOuPn7/rpjRTKrN1dMD8O/3pzg\nwdT9aQhhEQ0C4L4HCIQoWjOA42ouDdQ+rwGGBzXg2g35uvFcdGWc3219Ij8wBr+U\nx6YFjqDU7FwGweDd2eS5a22wWz5qD7G8JMS/YXdrMUgZsuHS+cP/+NfrtzgJlyol\ngNxZqbdep0PgyhgoHENG+ADM2PUkEfWGnlD7bq6ObwQEMwxKGaR6mCLBBNFJf0f8\notiSS7n28+gqUCQxYVGBa4Qht9+VgOOt6ZWlePuuCQKBgQD0+ILl8l+2kO6qUMkf\npUxsONBIMCNXf3wom790BkFaqxV8Z7FUXMozRYYT/qV8zay6hNfEfTR8A9rR2jpF\nmaLt3QjHQHYkwnGwWqpiFU52nSuwIEgUDD2xOm59WBQR+6aYzpdFeTHxeLncIqnk\nokNQav/RZtOC0fXsLdV/xFRdAwKBgQC1hTpGxNN5VqGhQ+JnmQrvkF3vkQpJRSri\nW9I63sz0wzQ9qCibi0/DiI+KdzsOEdKv+lUTAZtna1VsWxFX03s+lvLHFfwJtvM8\n7zjdhUohivTF+MQeOXRFQpg/uOi7vk1rDTpjplyAvuK4/cCPzZsFOlaCviX3k0Sp\nb8cgCduTNQKBgQDQu1e92zHW+9OA5+kXv99Ib3h5qhrTGVuPtnYBxLq3KQPbxvcA\nbTgVS+4c52PW3eGJ5Ft9nzmzWg1/tjTkzS5ZA3fRX4nLdKsum3KGtKTwyKdLIZaJ\nDo0akDFJOF2RnR2tIosetU/q8vVbL2YX3HMC+MkVgkpDM+gZ4EwE3CMORQKBgEMp\nH/6/JF9opjS8oTAjd+BbUeYpi9zAMrW9s3MErGCDOPj3Fs82JDT8ed+Jbdguz/08\nae22UoFZPSnyJ+CO5rKptvniMHaHskeBW1Da2CrA9v+ooydrqpFVqm8pQzLznkFV\ni50DGIaqGcjIWk7ai9jLVOba48FOQ8FNEifQfeVhAoGAb1vJrttuDQ8S1I5shVig\nJYUUMFkBuX7D5VArlcHGX2b3AjpXAT1sYtusgCoFk0ECXaWXCqNMoukgXdg5Asdy\nPy/CdXnV0uK4hX0j/oaKm6bIjdsFcT8Tp5cKaQRLFzPPTnHOgaf5SINM2BcES100\nkdWDGO/9fTRuNdsSZtCV+3M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "air-con-man@appspot.gserviceaccount.com",
+  "client_id": "115392134977757060577",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/air-con-man%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

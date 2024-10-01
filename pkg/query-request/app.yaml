@@ -1,0 +1,5 @@
+runtime: go122  # Use the appropriate runtime version for your project
+
+handlers:
+- url: /.*
+  script: auto
